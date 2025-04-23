@@ -71,7 +71,8 @@ Vim is more powerful and customizable, widely used by developers. Nano is beginn
 
 
 ### **Screenshots**
-Screenshots provided for confirmation of all actions
+   Screenshots provided for confirmation of all actions
+
 ![vim](./img/img1_vim.png)
 #
 ![nano](./img/img2_nano.png)
