@@ -1,0 +1,15 @@
+Hello, this is a nano hands-on project.
+
+Welcome to darey.io
+
+This project was done by Jeremiah
+
+Here I practiced entering into the nano text editor to 
+
+edit this file, save changes using ctrl + o and exiting 
+
+using ctrl + x
+
+I reopened the just-created nano file using nano "filename"
+
+
